@@ -4,7 +4,8 @@ public class Member {
     private Long id;
     private String name;
     private Grade grade;
-
+//단축키 찾는법 File-settings-keymap-검색
+    // generate alt+insert
     public Member(Long id, String name, Grade grade) {
         this.id = id;
         this.name = name;
